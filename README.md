@@ -64,6 +64,7 @@ Check all the gates following the same procedure.
 Developed by:VAISHNAVI S 
 RegisterNumber: 212222230165 
 */
+```
 # Logic symbol 
 ![d1](https://user-images.githubusercontent.com/118541897/233006728-1fc45e91-582d-4d85-8328-59c1bb2b87fc.jpg)
 
