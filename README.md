@@ -64,19 +64,17 @@ Check all the gates following the same procedure.
 Developed by:VAISHNAVI S 
 RegisterNumber: 212222230165 
 */
-Logic symbol 
-![Screenshot 2023-03-26 192606](https://user-images.githubusercontent.com/118541897/228157717-bfcb413c-ffa5-457f-8214-d7fe13c8df06.png)
+# Logic symbol 
+![d1](https://user-images.githubusercontent.com/118541897/233006728-1fc45e91-582d-4d85-8328-59c1bb2b87fc.jpg)
 
-Truth table
-![Screenshot 2023-03-26 192645](https://user-images.githubusercontent.com/118541897/228157625-2e57c81c-3d2c-47db-b2ea-f92b5bc2ec3e.png)
+# Truth table
+![d2](https://user-images.githubusercontent.com/118541897/233006801-90dc1bef-eaab-4087-988b-2aa72cf8230a.jpg)
 
-RTL realization
+# RTL realization
+![d3](https://user-images.githubusercontent.com/118541897/233006846-f2181117-5f0f-4267-89ec-07548f4ccde4.jpg)
 
-waveform
-
-
-
-
+# waveform
+![d4](https://user-images.githubusercontent.com/118541897/233006865-d8df505e-0878-4993-9e03-594c577d65f9.jpg)
 
 # Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
